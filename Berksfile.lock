@@ -1,0 +1,11 @@
+DEPENDENCIES
+  UberNginxCookbook
+    git: git@github.com:Sivachel/UberNginxCookbook.git
+    revision: e1f5380d57fb73a8792d35004cc99a211cd78dbe
+  UberPythonCookbook
+    git: git@github.com:Sivachel/UberPythonCookbook.git
+    revision: cf4c0102c0694618a8fc3e2bcf7cea377108438e
+
+GRAPH
+  UberNginxCookbook (0.1.0)
+  UberPythonCookbook (0.1.0)
